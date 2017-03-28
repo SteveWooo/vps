@@ -1,0 +1,24 @@
+{
+  "name": "vps",
+  "version": "1.0.0",
+  "description": "video parser",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveWooo/vps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveWooo/vps/issues"
+  },
+  "homepage": "https://github.com/SteveWooo/vps#readme"
+}
