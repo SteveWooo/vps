@@ -1,0 +1,6 @@
+{
+	"db_account" : "root",
+	"db_password" : "lyoko123RAIN",
+	"db_db" : "vps",
+	"db_port" : "3306"
+}
