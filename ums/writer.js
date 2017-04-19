@@ -1,4 +1,4 @@
-let config = require('./conf/config');
+let config = require('../conf/config');
 
 let writer = (data)=>{
 

@@ -1,4 +1,4 @@
-var _110ff = require('./models/110ff/parser');
+var _110ff = require('./models/110ff/fetcher');
 
 let fetcher = (options, callback)=>{
 	var domain = options.domain;
